@@ -1,4 +1,4 @@
-package com.learninglab.swipeassignment.model
+package com.learninglab.swipeassignment.model.data
 
 data class Product (
     val image: String ?,
