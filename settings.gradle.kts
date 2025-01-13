@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "swipe assignment"
+rootProject.name = "swipey"
 include(":app")
  

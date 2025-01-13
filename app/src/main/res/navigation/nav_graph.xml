@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/productListFragment">
+
+    <fragment
+        android:id="@+id/productListFragment"
+        android:name="com.learninglab.swipeassignment.ui.fragments.ProductListFragment"
+        android:label="Products">
+        <!-- The BottomSheetDialogFragment will be shown from the ProductListFragment
+             so we don't need to add it to the navigation graph -->
+    </fragment>
+
+</navigation>

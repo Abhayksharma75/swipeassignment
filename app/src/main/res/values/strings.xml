@@ -1,3 +1,13 @@
 <resources>
-    <string name="app_name">swipe assignment</string>
+    <string name="app_name">Swipey</string>
+    <string name="add_new_product">Add Product\n</string>
+    <string name="product_image">Product Image\n</string>
+    <string name="select_image">Select Image</string>
+    <string name="product_name">Product Name\n</string>
+    <string name="product_type">Product Type</string>
+    <string name="price">Price\n</string>
+    <string name="tax">Tax rate\n</string>
+    <string name="add_product">Add Product</string>
+    <string name="search_products">Search Products</string>
+    <string name="synced">Synced\n</string>
 </resources>

@@ -1,5 +1,17 @@
-<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="black">#FF000000</color>
-    <color name="white">#FFFFFFFF</color>
+    <color name="primary_color">#D0881E</color>
+    <color name="primary_variant">#D0881E</color>
+    <color name="on_primary">#FFFFFF</color>
+    <color name="secondary_color">#03DAC6</color>
+    <color name="on_secondary">#000000</color>
+    <color name="background_color">#F5F5F5</color>
+    <color name="surface_color">#FFFFFF</color>
+    <color name="on_surface">#000000</color>
+    <color name="primary_text">#212121</color>
+    <color name="container_background">#FFFFFF</color>
+    <color name = "status_bar_color">@color/gradient_start</color>"
+    <color name="gradient_end">#30559f</color>
+    <color name="gradient_center">#3d3c78</color>
+    <color name="gradient_start">#D0881E</color>
+
 </resources>
